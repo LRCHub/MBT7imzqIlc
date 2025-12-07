@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "DIFFERENT (English ver.)",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-07T09:16:51.644560Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DIFFERENT (English ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/01_DIFFERENT_(English_ver.)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DIFFERENT - English ver.",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/02_DIFFERENT_-_English_ver._LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DIFFERENT (English ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_DIFFERENT_(English_ver.)_LE_SSERAFIM.txt"
+    }
+  ]
+}
